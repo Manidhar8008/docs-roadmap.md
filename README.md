@@ -1,4 +1,4 @@
-# Project Roadmap
+# Project Roadmap 
 
 ## Objective
 Establish a scalable automation pipeline for job applications, smart filtering, resume tailoring, and activity logging.
