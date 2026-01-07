@@ -1,7 +1,7 @@
 # Project Roadmap 
 
 ## Objective
-Establish a scalable automation pipeline for job applications, smart filtering, resume tailoring, and activity logging.
+Establish a scalable automation pipeline for job applications, smart filtering, resume tailoring, and activity logging...
 
 ## Current Architecture
 - Data ingestion module
